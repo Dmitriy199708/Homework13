@@ -20,7 +20,6 @@ public class StatsServiceTest {
 
 
     }
-
     @Test
     public void avgSummMonth() { //  среднюю сумму продаж в месяц
         StatsService service = new StatsService();
